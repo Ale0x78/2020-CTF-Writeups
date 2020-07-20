@@ -1,5 +1,5 @@
 
-# Quote of the Day
+# Omega Stonks
 
 ## Challenge
 ![alt text](./images/omega_challange.png "If you solve this challenge, straightup you have Omega Stonks.(Buy this flag from IsabelleBot)")

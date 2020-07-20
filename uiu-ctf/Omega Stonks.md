@@ -72,7 +72,11 @@ Ignore the chewed up USB-C dongle, my dog managed to get to it the day before. N
 
 The next morning I noticed that I was muted from the chat, with got about 450,000 (you needed 500,000 for the flag). So close! What happened? Was automation against the rules? (I should mention I didn't really look into the challenge that much). Did my little Arduino mess up and started sending bad words? 
 
-I opened a ticket with the CTF organizers, and after telling them honestly that my Arduino was doing most of the typing, and that it shall go to Android Hell for all of its wrongdoings, we were back in business. And they even let me keep using it!!
+I opened a ticket with the CTF organizers, and after telling them honestly that my Arduino was doing most of the typing, and that it shall go to Android Hell for all of its wrongdoings, we were back in business. 
+
+![alt text](./images/sad_digispark.png "My Sad DigiSpark")
+
+And they even let me keep using it!!
 
 ## Final Push
 
